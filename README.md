@@ -1,7 +1,7 @@
 ### #include <stdio.h>
-### int main(){
-### printf("Hello World");
-### return 0;
+  ### int main(){
+   ### printf("Hello World");
+   ### return 0;}
 
 ### Opa, Tudo de Bom?!?! Sou Matheus Fontes
 
@@ -19,7 +19,15 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div>
 
-### Hobbies
+### 🚀Hobbies🚀
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Ps4" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+  
+  
+</div>
 
   
   
