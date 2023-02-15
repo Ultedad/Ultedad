@@ -3,12 +3,12 @@
  - int main(){
    - printf("Hello World");
    - return 0;}
- - Estudando Ciência da Computação Na UFS
- - Sempre fui Fascinado Pela Tecnologia
- - Estudos sempre constante
- - Interesse em Inteligência Artificial
- - Criatividade e Protagonismo
- - "Mesmo se tudo der errado, voce ainda pode recomeça do zero"🕛
+ - 👨‍🎓Estudando Ciência da Computação Na UFS
+ - 🖥️Sempre fui Fascinado Pela Tecnologia
+ - 📘Estudos sempre constante
+ - 🤖Interesse em Inteligência Artificial
+ - 👊Criatividade e Protagonismo
+ - 🕛"Mesmo se tudo der errado, voce ainda pode recomeça do zero"
 
 #
 
