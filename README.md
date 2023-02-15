@@ -1,16 +1,23 @@
-## Opa, Tudo de Bom?!?! Sou Matheus Fontes <img align="right" src="https://media.tenor.com/G4kr-EuOh_wAAAAC/solo-leveling.gif" width="200" />
+## Opa, Tudo de Bom?!?! Sou Matheus Fontes👋 <img align="right" src="https://media.tenor.com/G4kr-EuOh_wAAAAC/solo-leveling.gif" width="200" />
  - #include <stdio.h>
  - int main(){
    - printf("Hello World");
    - return 0;}
  - Estudando Ciência da Computação Na UFS
- - Entrando no mundo da tecnologia
+ - Sempre fui Fascinado Pela Tecnologia
  - Estudos sempre constante
- - Procurando desafios
+ - Interesse em Inteligência Artificial
+ - Criatividade e Protagonismo
+ - "Mesmo se tudo der errado, voce ainda pode recomeça do zero"🕛
 
 #
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultedad&show_icons=true&theme=tokyonight)
+<div align="center">
+<a href="#">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ultedad&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultedad&layout=compact&langs_count=8&theme=midnight-purple"/><br>
+</div> 
+
 
 ### ⚔️Linguagens De Computação Do Cotiadiano⚔️
 
